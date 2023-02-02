@@ -1,0 +1,17 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 10px 5px;
+}
+
+p {
+    margin: 5rem 3rem;
+    padding: 2px 4px;
+    text-align: justify;
+    text-indent: 1rem;
+    
+}
